@@ -13,7 +13,6 @@
 		04CFC30822C8AE9F0053A9ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04CFC30722C8AE9F0053A9ED /* Assets.xcassets */; };
 		04CFC30B22C8AE9F0053A9ED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04CFC30922C8AE9F0053A9ED /* LaunchScreen.storyboard */; };
 		58097336EDFAF08F1E4E76FE /* Pods_Demo_Realm.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A727E48CBFA190F859308554 /* Pods_Demo_Realm.framework */; };
-		F6E111CC22CB5DE2005088B0 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6E111CB22CB5DE2005088B0 /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +26,6 @@
 		04CFC30C22C8AE9F0053A9ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5C4876D4258E1F9275F3E2FA /* Pods-Demo-Realm.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Demo-Realm.release.xcconfig"; path = "Target Support Files/Pods-Demo-Realm/Pods-Demo-Realm.release.xcconfig"; sourceTree = "<group>"; };
 		A727E48CBFA190F859308554 /* Pods_Demo_Realm.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Demo_Realm.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		F6E111CB22CB5DE2005088B0 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +63,6 @@
 			children = (
 				04CFC30022C8AE9E0053A9ED /* AppDelegate.swift */,
 				04CFC30222C8AE9E0053A9ED /* ViewController.swift */,
-				F6E111CB22CB5DE2005088B0 /* TableViewCell.swift */,
 				04CFC30422C8AE9E0053A9ED /* Main.storyboard */,
 				04CFC30722C8AE9F0053A9ED /* Assets.xcassets */,
 				04CFC30922C8AE9F0053A9ED /* LaunchScreen.storyboard */,
@@ -206,7 +203,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F6E111CC22CB5DE2005088B0 /* TableViewCell.swift in Sources */,
 				04CFC30322C8AE9E0053A9ED /* ViewController.swift in Sources */,
 				04CFC30122C8AE9E0053A9ED /* AppDelegate.swift in Sources */,
 			);
